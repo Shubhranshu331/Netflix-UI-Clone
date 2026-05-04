@@ -1,8 +1,72 @@
-# Netflix-Clone
-Building a simple front-end application using HTML, CSS, and JavaScript requires a basic understanding of each language. HTML (HyperText Markup Language) is used for structuring content on the web, CSS (Cascading Style Sheets) is used for styling and layout, and JavaScript is used for functionality and interactivity. Here's a brief overview of each:
+# 🎬 Netflix UI Clone (Frontend)
 
-* HTML: Define the structure and content of web pages using tags and attributes.
-* CSS: Add styles and layout to the content using selectors, properties, and values.
-* JavaScript: Write code to add interactivity, animations, and dynamic functionality to the web page.
+## 📌 Overview
+This project is a **frontend clone of Netflix UI** built using HTML, CSS, and JavaScript.
 
-To get started, create an HTML file with basic structure, add CSS styles using a CSS file, and add JavaScript code using.
+It focuses on creating an interactive user interface with dynamic behavior such as search functionality and hover-based details.
+
+---
+
+## 🎯 Features
+- Responsive UI inspired by Netflix  
+- Movie cards with posters  
+- Hover effects to display additional details  
+- Search functionality to filter movies  
+- Clean and structured layout  
+
+---
+
+## 🧠 Key Concepts Used
+- DOM manipulation (JavaScript)  
+- Event handling  
+- Search filtering logic  
+- CSS styling and layout design  
+
+---
+
+## 🛠 Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📂 Project Structure
+- index.html
+- style.css
+- script.js
+
+---
+
+## 🔍 How It Works
+- Movies are displayed as cards  
+- On hover → additional details are shown  
+- Search bar → filters movies dynamically based on input  
+
+---
+
+## 📸 Output
+
+| Home Page | Search Feature |
+|----------|---------------|
+| ![](images/home.png) | ![](images/search.png) |
+
+---
+
+## ⚠️ Limitations
+- No backend integration  
+- Does not stream videos  
+- Static dataset  
+
+---
+
+## 🚀 Future Improvements
+- Add backend (Node.js / Firebase)  
+- Enable real-time movie API (TMDB)  
+- Add user authentication  
+- Enable video playback  
+
+---
+
+## ⭐ Conclusion
+This project demonstrates frontend development skills including UI design, interactivity, and dynamic behavior using JavaScript.
